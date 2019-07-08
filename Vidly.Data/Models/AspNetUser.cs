@@ -23,7 +23,6 @@ namespace Vidly.Data.Models
         }
     
         public string Id { get; set; }
-        public string DrivingLicense { get; set; }
         public string Phone { get; set; }
         public string Email { get; set; }
         public bool EmailConfirmed { get; set; }
