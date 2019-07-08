@@ -158,3 +158,4 @@ D:\Git\MyVidlyWithDbFirst\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\Git\MyVidlyWithDbFirst\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\Git\MyVidlyWithDbFirst\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 D:\Git\MyVidlyWithDbFirst\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Git\MyVidlyWithDbFirst\Vidly\obj\Debug\Vidly.Migrations.SeedAdminUser.resources
