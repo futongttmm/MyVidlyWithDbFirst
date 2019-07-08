@@ -222,6 +222,10 @@
     <Compile Include="Migrations\201907081346223_SeedAdminUser.Designer.cs">
       <DependentUpon>201907081346223_SeedAdminUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201907081407581_PopulateMembershipTypesAndGenre.cs" />
+    <Compile Include="Migrations\201907081407581_PopulateMembershipTypesAndGenre.Designer.cs">
+      <DependentUpon>201907081407581_PopulateMembershipTypesAndGenre.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -519,6 +523,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201907081346223_SeedAdminUser.resx">
       <DependentUpon>201907081346223_SeedAdminUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907081407581_PopulateMembershipTypesAndGenre.resx">
+      <DependentUpon>201907081407581_PopulateMembershipTypesAndGenre.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
